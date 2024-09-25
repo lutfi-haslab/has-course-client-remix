@@ -5,8 +5,4 @@ node_modules
 .env
 .vercel
 
-<<<<<<< HEAD
-=======
-# Sentry Config File
->>>>>>> origin/main
 .env.sentry-build-plugin
