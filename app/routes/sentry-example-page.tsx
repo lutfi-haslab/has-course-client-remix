@@ -51,7 +51,11 @@ export default function SentryExamplePage() {
 
             <p>
                 Next, look for the error on the{" "}
+<<<<<<< HEAD
+                <a href="https://haslab.sentry.io/issues/?project=4508008435023872">Issues Page</a>.
+=======
                 <a href="https://sentry.io/organizations/haslab/issues/?project=4508008435023872">Issues Page</a>.
+>>>>>>> origin/main
             </p>
             <p style={{ marginTop: "24px" }}>
                 For more information, see{" "}
